@@ -1,0 +1,12 @@
+{
+  "name": "Business Ledger",
+  "short_name": "Biz Ledger",
+  "description": "A private multi-business ledger and operations workspace.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f5f7",
+  "theme_color": "#13243d",
+  "icons": [
+    { "src": "/branding/app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

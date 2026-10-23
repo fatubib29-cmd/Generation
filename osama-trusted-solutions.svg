@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 150" role="img" aria-labelledby="title desc">
+  <title id="title">Osama Trusted Solutions</title><desc id="desc">Navy and gold connected-exchange OTS monogram.</desc>
+  <g transform="translate(14 14)">
+    <rect width="122" height="122" rx="28" fill="#13243d"/>
+    <path d="M36 49a29 29 0 0 1 48-17l8 8" fill="none" stroke="#d4b477" stroke-width="6" stroke-linecap="round"/>
+    <path d="M88 32v13H75" fill="none" stroke="#d4b477" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M86 73a29 29 0 0 1-48 17l-8-8" fill="none" stroke="#d4b477" stroke-width="6" stroke-linecap="round"/>
+    <path d="M34 90V77h13" fill="none" stroke="#d4b477" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="61" y="69" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="1">OTS</text>
+  </g>
+  <path d="M157 39h1v72h-1" fill="none" stroke="#d4b477" stroke-width="3"/>
+  <text x="183" y="76" fill="#13243d" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="1.2">OSAMA TRUSTED</text>
+  <text x="184" y="106" fill="#6d7890" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="500" letter-spacing="4">SOLUTIONS</text>
+</svg>

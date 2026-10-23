@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Qasemi Tours and Travels compass symbol</title>
+  <rect x="4" y="4" width="120" height="120" rx="30" fill="#123c3c"/>
+  <circle cx="64" cy="60" r="39" fill="none" stroke="#d5bd82" stroke-width="2.2"/>
+  <path d="M64 23l11 33-11 47-11-47z" fill="#d8bd78"/>
+  <path d="M64 41l-5 16 5 8 5-8z" fill="#fff"/>
+  <circle cx="64" cy="60" r="5" fill="#123c3c"/>
+  <path d="M24 84c14-5 27-2 40 8 12 9 24 10 39 4" fill="none" stroke="#f8f5eb" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="32" cy="81" r="3" fill="#d8bd78"/><circle cx="94" cy="96" r="3" fill="#d8bd78"/>
+</svg>

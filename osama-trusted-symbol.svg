@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Osama Trusted Solutions symbol</title>
+  <rect x="4" y="4" width="120" height="120" rx="30" fill="#13243d"/>
+  <path d="M39 51a29 29 0 0 1 47-17l8 8" fill="none" stroke="#d4b477" stroke-width="6" stroke-linecap="round"/>
+  <path d="M94 34v13H81" fill="none" stroke="#d4b477" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M89 76a29 29 0 0 1-47 17l-8-8" fill="none" stroke="#d4b477" stroke-width="6" stroke-linecap="round"/>
+  <path d="M34 93V80h13" fill="none" stroke="#d4b477" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="64" y="70" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="1">OTS</text>
+</svg>

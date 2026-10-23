@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Business Ledger</title>
+  <rect width="128" height="128" rx="30" fill="#13243d"/>
+  <path d="M36 48a34 34 0 0 1 57-19l8 8" fill="none" stroke="#d8bd78" stroke-width="7" stroke-linecap="round"/>
+  <path d="M101 35v15H86" fill="none" stroke="#d8bd78" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M92 80a34 34 0 0 1-57 19l-8-8" fill="none" stroke="#d8bd78" stroke-width="7" stroke-linecap="round"/>
+  <path d="M27 93V78h15" fill="none" stroke="#d8bd78" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="64" y="70" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="1">BL</text>
+</svg>
